@@ -61,22 +61,7 @@ footer {
     text-align: center;
 }
 
-.spinner{
-    background-color: #00b4d8;
-    height: 120px;
-    width: 125px;
-    border-radius: 80%;
-    border: 25 solid rgb(255, 251, 251);
-    border-top: 20px solid rgb(214, 130, 20);
-    animation: ani 0.3s linear infinite;
-    align-items: center;
-    block-size: 50pxpx;
-}
-@keyframes ani{
-    to{
-        transform: rotate(360deg);
-    }
-}
+
 
 .spinner2{
     background-color: rgb(255, 251, 251);
